@@ -2,11 +2,10 @@
 
 ### LeetCode Problem
 
-(Notes: "🔒" means you need to buy a book from Leetcode)
-
-| #   | Title                                             | Solution                                                                                                                                                                                      | Difficulty | Explaination |
-| --- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./problem/Two_Sum/TwoSum.cpp), [C](./problem/Two_Sum/TwoSum.c), [Python](./problem/Two_Sum/TwoSum.py), [Java](./problem/Two_Sum/TwoSum.java), [Javascript](./problem/Two_Sum/TwoSum.js) | Easy       |              |
+| #   | Title                                                             | Solution                                                                                                                                                                                                                         | Difficulty | Explaination |
+| --- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                 | [C++](./problem/Two_Sum/twoSum.cpp), [C](./problem/Two_Sum/twoSum.c), [Python](./problem/Two_Sum/twoSum.py), [Java](./problem/Two_Sum/twoSum.java), [Javascript](./problem/Two_Sum/twoSum.js)                                    | Easy       |              |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./problem/Two_Sum/addTwoNumbers.cpp), [C](./problem/Two_Sum/addTwoNumbers.c), [Python](./problem/Two_Sum/addTwoNumbers.py), [Java](./problem/Two_Sum/addTwoNumbers.java), [Javascript](./problem/Two_Sum/addTwoNumbers.js) | Medium     |              |
 
 ### LeetCode Shell
 
