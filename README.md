@@ -9,9 +9,9 @@
 
 ### LeetCode SQL 50
 
-| #    | Title                                          | Solution                                                 | Difficulty |
-| ---- | ---------------------------------------------- | -------------------------------------------------------- | ---------- |
-| 1378 | Replace Employee ID With The Unique Identifier | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql) | Easy       |
+| #    | Title                                          | Solution                                                                                                             | Difficulty |
+| ---- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1378 | Replace Employee ID With The Unique Identifier | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql), [Pandas](./problem/Unique_Identifier/Unique_Identifier.py) | Easy       |
 
 ### LintCode
 
