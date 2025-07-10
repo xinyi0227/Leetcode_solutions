@@ -9,16 +9,17 @@
 
 ### LeetCode SQL 50
 
-| #    | Title                                          | Solution                                                                                                             | Difficulty |
-| ---- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 570  | Managers with at Least 5 Direct Reports        | [SQL](./problem/Manager_Reports/Manager_Reports.sql), [Pandas](./problem/Manager_Reports/Manager_Reports.py)         | Medium     |
-| 577  | Students and Examinations                      | [SQL](./problem/Stud_Exam/Stud_Exam.sql), [Pandas](./problem/Stud_Exam/Stud_Exam.py)                                 | Easy       |
-| 620  | Not Boring Movies                              | [SQL](./problem/Not_Boring_Movies/Not_Boring_Movies.sql), [Pandas](./problem/Not_Boring_Movies/Not_Boring_Movies.py) | Easy       |
-| 1251 | Average Selling Price                          | [SQL](./problem/Avg_Selling_Price/Avg_Selling_Price.sql), [Pandas](./problem/Avg_Selling_Price/Avg_Selling_Price.py) | Easy       |
-| 1280 | Employee Bonus                                 | [SQL](./problem/Employee_Bonus/Employee_Bonus.sql), [Pandas](./problem/Employee_Bonus/Employee_Bonus.py)             | Easy       |
-| 1378 | Replace Employee ID With The Unique Identifier | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql), [Pandas](./problem/Unique_Identifier/Unique_Identifier.py) | Easy       |
-| 1661 | Average Time of Process per Machine            | [SQL](./problem/Avg_Time_Machine/Avg_Time_Machine.sql), [Pandas](./problem/Avg_Time_Machine/Avg_Time_Machine.py)     | Easy       |
-| 1934 | Confirmation Rate                              | [SQL](./problem/Confirmation_Rate/Confirmation_Rate.sql), [Pandas](./problem/Confirmation_Rate/Confirmation_Rate.py) | Medium     |
+| #    | Title                                          | Solution                                                                                                                     | Difficulty |
+| ---- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 570  | Managers with at Least 5 Direct Reports        | [SQL](./problem/Manager_Reports/Manager_Reports.sql), [Pandas](./problem/Manager_Reports/Manager_Reports.py)                 | Medium     |
+| 577  | Students and Examinations                      | [SQL](./problem/Stud_Exam/Stud_Exam.sql), [Pandas](./problem/Stud_Exam/Stud_Exam.py)                                         | Easy       |
+| 620  | Not Boring Movies                              | [SQL](./problem/Not_Boring_Movies/Not_Boring_Movies.sql), [Pandas](./problem/Not_Boring_Movies/Not_Boring_Movies.py)         | Easy       |
+| 1075 | Project Employess I                            | [SQL](./problem/Project_Employess_I/Project_Employess_I.sql), [Pandas](./problem/Project_Employess_I/Project_Employess_I.py) | Easy       |
+| 1251 | Average Selling Price                          | [SQL](./problem/Avg_Selling_Price/Avg_Selling_Price.sql), [Pandas](./problem/Avg_Selling_Price/Avg_Selling_Price.py)         | Easy       |
+| 1280 | Employee Bonus                                 | [SQL](./problem/Employee_Bonus/Employee_Bonus.sql), [Pandas](./problem/Employee_Bonus/Employee_Bonus.py)                     | Easy       |
+| 1378 | Replace Employee ID With The Unique Identifier | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql), [Pandas](./problem/Unique_Identifier/Unique_Identifier.py)         | Easy       |
+| 1661 | Average Time of Process per Machine            | [SQL](./problem/Avg_Time_Machine/Avg_Time_Machine.sql), [Pandas](./problem/Avg_Time_Machine/Avg_Time_Machine.py)             | Easy       |
+| 1934 | Confirmation Rate                              | [SQL](./problem/Confirmation_Rate/Confirmation_Rate.sql), [Pandas](./problem/Confirmation_Rate/Confirmation_Rate.py)         | Medium     |
 
 ### LintCode
 
