@@ -12,6 +12,7 @@
 | #    | Title                                          | Solution                                                                                                             | Difficulty |
 | ---- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1378 | Replace Employee ID With The Unique Identifier | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql), [Pandas](./problem/Unique_Identifier/Unique_Identifier.py) | Easy       |
+| 1661 | Average Time of Process per Machine            | [SQL](./problem/Unique_Identifier/Avg_Time_Machine.sql), [Pandas](./problem/Unique_Identifier/UAvg_Time_Machine.py)  | Easy       |
 
 ### LintCode
 
