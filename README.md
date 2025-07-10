@@ -6,7 +6,7 @@
 
 | #   | Title                                             | Solution                                                                                                                                                                                      | Difficulty |
 | --- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./problem/Two Sum/TwoSum.cpp), [C](./problem/Two Sum/TwoSum.c), [Python](./problem/Two Sum/TwoSum.py), [Java](./problem/Two Sum/TwoSum.java), [Javascript](./problem/Two Sum/TwoSum.js) | Easy       |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./problem/Two_Sum/TwoSum.cpp), [C](./problem/Two_Sum/TwoSum.c), [Python](./problem/Two_Sum/TwoSum.py), [Java](./problem/Two_Sum/TwoSum.java), [Javascript](./problem/Two_Sum/TwoSum.js) | Easy       |
 
 ### LeetCode Shell
 
