@@ -11,7 +11,8 @@
 
 | #    | Title                                          | Solution                                                                                                             | Difficulty |
 | ---- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 577  | Employee Bonus                                 | [SQL](./problem/Employee_Bonus/Employee_Bonus.sql), [Pandas](./problem/Employee_Bonus/Employee_Bonus.py)             | Easy       |
+| 577  | Students and Examinations                      | [SQL](./problem/Stud_Exam/Stud_Exam.sql), [Pandas](./problem/Stud_Exam/Stud_Exam.py)                                 | Easy       |
+| 1280 | Employee Bonus                                 | [SQL](./problem/Employee_Bonus/Employee_Bonus.sql), [Pandas](./problem/Employee_Bonus/Employee_Bonus.py)             | Easy       |
 | 1378 | Replace Employee ID With The Unique Identifier | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql), [Pandas](./problem/Unique_Identifier/Unique_Identifier.py) | Easy       |
 | 1661 | Average Time of Process per Machine            | [SQL](./problem/Avg_Time_Machine/Avg_Time_Machine.sql), [Pandas](./problem/Avg_Time_Machine/Avg_Time_Machine.py)     | Easy       |
 
