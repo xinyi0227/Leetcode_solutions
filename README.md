@@ -23,6 +23,7 @@
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [SQL](./problem/Unique_Identifier/Unique_Identifier.sql), [Pandas](./problem/Unique_Identifier/Unique_Identifier.py)         | Easy       |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)                 | [SQL](./problem/Users_Percentage/users_percentage.sql), [Pandas](./problem/Users_Percentage/users_percentage.py)             | Easy       |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)                       | [SQL](./problem/Avg_Time_Machine/Avg_Time_Machine.sql), [Pandas](./problem/Avg_Time_Machine/Avg_Time_Machine.py)             | Easy       |
+| 1680 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)                                             | [SQL](./problem/Sales_Analysis/sales_analysis.sql), [Pandas](./problem/Sales_Analysis/sales_analysis.py)                     | Easy       |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)                                                           | [SQL](./problem/Confirmation_Rate/Confirmation_Rate.sql), [Pandas](./problem/Confirmation_Rate/Confirmation_Rate.py)         | Medium     |
 
 ### LintCode
