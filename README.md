@@ -9,6 +9,7 @@
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./problem/Longest_Substring_No_Repeat/lengthOfLongestSubstring.cpp), [C](./problem/Longest_Substring_No_Repeat/lengthOfLongestSubstring.c), [Python](./problem/Longest_Substring_No_Repeat/lengthOfLongestSubstring.py), [Java](./problem/Longest_Substring_No_Repeat/lengthOfLongestSubstring.java), [Javascript](./problem/Longest_Substring_No_Repeat/lengthOfLongestSubstring.js) | Medium     |              |
 | 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | [C++](./problem/Zigzag_Conversion/convert.cpp), [C](./problem/Zigzag_Conversion/convert.c), [Python](./problem/Zigzag_Conversion/convert.py), [Java](./problem/Zigzag_Conversion/convert.java), [Javascript](./problem/Zigzag_Conversion/convert.js)                                                                                                                                        | Medium     |              |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | [C++](./problem/Reverse_Integer/reverse.cpp), [C](./problem/Reverse_Integer/reverse.c), [Python](./problem/Reverse_Integer/reverse.py), [Java](./problem/Reverse_Integer/reverse.java), [Javascript](./problem/Reverse_Integer/reverse.js)                                                                                                                                                  | Medium     |              |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | [C++](./problem/Palindrome_Number/isPalindrome.cpp), [C](./problem/Palindrome_Number/isPalindrome.c), [Python](./problem/Palindrome_Number/isPalindrome.py), [Java](./problem/Palindrome_Number/isPalindrome.java), [Javascript](./problem/Palindrome_Number/isPalindrome.js)                                                                                                               | Easy       |              |
 
 ### LeetCode SQL 50
 
@@ -29,8 +30,3 @@
 | 1680 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)                                             | [SQL](./problem/Sales_Analysis/sales_analysis.sql), [Pandas](./problem/Sales_Analysis/sales_analysis.py)                             | Easy       |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                                                 | [SQL](./problem/Invalid_Tweets/invalid_tweets.sql), [Pandas](./problem/Invalid_Tweets/invalid_tweets.py)                             | Easy       |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)                                                           | [SQL](./problem/Confirmation_Rate/Confirmation_Rate.sql), [Pandas](./problem/Confirmation_Rate/Confirmation_Rate.py)                 | Medium     |
-
-### LintCode
-
-| #   | Title | Solution | Difficulty |
-| --- | ----- | -------- | ---------- |
