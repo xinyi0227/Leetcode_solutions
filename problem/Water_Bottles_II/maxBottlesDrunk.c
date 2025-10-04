@@ -1,5 +1,6 @@
 int maxBottlesDrunk(int numBottles, int numExchange)
 {
+
     int bottleDrunk = numBottles;
     int emptyBottles = numBottles;
 
