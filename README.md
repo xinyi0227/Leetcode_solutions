@@ -272,8 +272,3 @@
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                       | [C++](./problem/Removing_Stars_String/removeStars.cpp), [C](./problem/Removing_Stars_String/removeStars.c), [Python](./problem/Removing_Stars_String/removeStars.py), [Java](./problem/Removing_Stars_String/removeStars.java), [Javascript](./problem/Removing_Stars_String/removeStars.js)                                                   | Medium     |
 
 
-
-
-
-
-
