@@ -1,0 +1,38 @@
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+
+var maxProduct = function(root) {
+    const MOD = 1e9 + 7;
+
+    // DFS to compute subtree sums (in-place)
+    const dfs = (node) => {
+        if (!node) return 0;
+        node.val += dfs(node.left) + dfs(node.right);
+        return node.val;
+    };
+
+    const total = dfs(root);
+
+    let ans = 0;
+    const queue = [root];
+
+    // BFS to compute max product
+    while (queue.length > 0) {
+        const node = queue.shift();
+        if (!node) continue;
+
+        const cur = (total - node.val) * node.val;
+        ans = Math.max(ans, cur);
+
+        if (node.left) queue.push(node.left);
+        if (node.right) queue.push(node.right);
+    }
+
+    return ans % MOD;
+};
