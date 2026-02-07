@@ -1,0 +1,14 @@
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+const minBitwiseArray = nums => {
+    const res = [];
+    for (const n of nums) {
+        if (n & 1)
+            res.push(n & ~(((n + 1) & ~n) >> 1));
+        else
+            res.push(-1);
+    }
+    return res;
+};
