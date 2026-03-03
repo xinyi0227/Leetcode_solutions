@@ -1,0 +1,24 @@
+/**
+ * @param {TreeNode} root
+ * @return {boolean}
+ */
+var isBalanced = function(root) {
+    return dfs(root) !== -1;
+};
+
+function dfs(node) {
+    if (!node) return 0;
+
+    var left = dfs(node.left);
+    if (left === -1) return -1;
+
+    var right = dfs(node.right);
+    if (right === -1) return -1;
+
+    var diff = left - right;
+    if (diff < 0) diff = -diff;
+    
+    if (diff > 1) return -1;
+
+    return 1 + (left > right ? left : right);
+}
