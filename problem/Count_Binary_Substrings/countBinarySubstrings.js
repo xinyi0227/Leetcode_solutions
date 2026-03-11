@@ -1,0 +1,20 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+const countBinarySubstrings = s => {
+    let res = 0, prev = 0, strk = 1;
+
+    for (let i = 1; i < s.length; i++) {
+        if (s[i] === s[i - 1])
+            strk++;
+        else {
+            prev = strk;
+            strk = 1;
+        }
+
+        if (strk <= prev) res++;
+    }
+
+    return res;
+};
