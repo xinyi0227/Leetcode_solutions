@@ -1,5 +1,5 @@
 class Solution:
-    def minOperations(self, s: str, k: int) -> int:
+    def minOperations(self, s, k):
         zero = 0
         length = len(s)
 
